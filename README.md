@@ -1,2 +1,5 @@
 # cosmic-shooter
-pygame framework, 
+python , pygame framework 
+
+SPACE - turn on / off
+x - changing gun moode
